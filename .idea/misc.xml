@@ -3,7 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ISAI/AndroidStudioProjects/AgendaFirebase/app/src/main/res/layout/activity_lista.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/ISAI/AndroidStudioProjects/AgendaFirebase/app/src/main/res/layout/activity_lista.xml" value="0.25" />
+        <entry key="..\:/Users/ISAI/AndroidStudioProjects/AgendaFirebase/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/ISAI/AndroidStudioProjects/AgendaFirebase/app/src/main/res/layout/activity_main.xml" value="0.1947463768115942" />
         <entry key="..\:/Users/ISAI/AndroidStudioProjects/AgendaFirebase/app/src/main/res/layout/layout_contacto.xml" value="0.1793478260869565" />
       </map>
